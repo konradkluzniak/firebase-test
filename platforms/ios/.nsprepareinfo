@@ -1,0 +1,20 @@
+{
+	"time": "Wed Aug 08 2018 13:29:43 GMT+0200 (CEST)",
+	"nativePlatformStatus": "3",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": true,
+	"projectFileHash": "0cbe13ed4cebba62cc2b6f3a962932076056f83083b9bd04f7472151b75082cd",
+	"changesRequireBuildTime": "Wed Aug 08 2018 13:29:43 GMT+0200 (CEST)",
+	"appFilesHashes": {
+		"/Users/konrad/apps/notify/app/app-root.xml": "900a386cb2d8abc9573413eb3aff45448dcd3608",
+		"/Users/konrad/apps/notify/app/app.css": "6b35cf7fc669764bd611ef9fe3164457246cfaed",
+		"/Users/konrad/apps/notify/app/app.js": "860fd223c6f695115a3902cf040bcc25971c6829",
+		"/Users/konrad/apps/notify/app/bundle-config.js": "d17c2570811747318a75d48cef336b3c2945cf07",
+		"/Users/konrad/apps/notify/app/main-page.js": "e3dfd3fc75a4d41d3c3ea69bbfc2e52159919e19",
+		"/Users/konrad/apps/notify/app/main-page.xml": "dadb79414737be842940881ad61a8bed20080077",
+		"/Users/konrad/apps/notify/app/main-view-model.js": "f977a52b4fb31fe984415623f7597e914c24750d",
+		"/Users/konrad/apps/notify/app/package.json": "76d2f371ccaf38f64ed764513b2b13292c218382",
+		"/Users/konrad/apps/notify/app/references.d.ts": "c83a3304d98c2586359871f5d8ac10c8aa8af848"
+	}
+}
